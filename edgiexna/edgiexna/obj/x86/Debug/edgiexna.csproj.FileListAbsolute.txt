@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\bin\x86\Debug\edgiexna.exe
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\bin\x86\Debug\edgiexna.pdb
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\obj\x86\Debug\edgiexna.exe
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\obj\x86\Debug\edgiexna.pdb
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\bin\x86\Debug\Content\world.xnb
+\\psf\Home\Documents\Programming\edgiexna\edgiexna\edgiexna\bin\x86\Debug\Content\smalnia.xnb
